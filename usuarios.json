@@ -1,7 +1,7 @@
 {
     "_config_sistema": {
         "escritorio": {
-            "exigir_login": true,
+            "exigir_login": false,
             "descricao": "Versao interna do escritorio"
         },
         "comercial": {
