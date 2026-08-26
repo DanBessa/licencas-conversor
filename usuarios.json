@@ -3,15 +3,6 @@
         "exigir_login": true,
         "mensagem_bloqueio": "O acesso a este aplicativo requer autenticação."
     },
-    "cliente@empresa.com": {
-        "senha_hash": "...",
-        "senha_original": "...",
-        "licenca_payload": "...",
-        "expira_em": "2026-12-31 23:59:59",
-        "bloqueado": false
-    }
-}
-{
     "teste@teste": {
         "senha_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
         "senha_original": "123456",
