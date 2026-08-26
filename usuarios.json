@@ -1,10 +1,20 @@
 {
-    "teste": {
-        "senha_hash": "46070d4bf934fb0d4b06d9e2c46e346944e322444900a435d7d9a95e6d7435f5",
-        "senha_original": "teste",
-        "licenca_payload": "eyJkYWRvcyI6ICJleUpqYkdsbGJuUmxJam9nSW5SbGMzUmxJaXdnSW1kbGNtRmtiMTlsYlNJNklDSXlNREkyTFRBNExUSTJJREUyT2pFNE9qSXpJaXdnSW1WNGNHbHlZVjlsYlNJNklDSXlNREkyTFRBNExUSTNJREUyT2pFNE9qSXpJaXdnSW1Kc2IzRjFaV0ZrYnlJNklHWmhiSE5sZlE9PSIsICJhc3NpbmF0dXJhIjogIldlcyt1Uk1wSUZRSVREb1c4L3VDK0dZOGMrRURyWHpsWW1ZS3NrYVJFNE9TaVBaRkF2WUl1azVieTIwVjd2WGpnejFYdWJyMFNHRmttTzdOZGtrUC9BMTZKbENWank2VHFLakZRalZzdHROTFJWUkp6SytnSjg2Q3FiU1BJWlZUQUdxRWR4N3BXUlZncEJFeW40a1l5THp2MVd0M3dQRjBISTJVV09lbHdRckpXblE2UEg4cG5LeUdDQityTkF5SHNlMDVtRTFUNGlFT1F0TDVGKzBIbUQwc1hMYkJLVGR1eEdYNTdtTXJoU0dLd3ZJbTZVbXVXQW9rUEZQcVZTLzJEd2VaL25nSGc5MzlaUXEvdFBLWnUyY0lxbERFZ3hYOEN3b0hHVVE4OGduYXdzTXVjUGlSNWN3NXRNS2VJTTVmVWtBV21mc2FubGdDWHprcXBBWGlFdz09In0=",
-        "expira_em": "2026-08-27 16:18:23",
+    "_config_sistema": {
+        "escritorio": {
+            "exigir_login": false,
+            "descricao": "Versao interna do escritorio"
+        },
+        "comercial": {
+            "exigir_login": true,
+            "descricao": "Versao para clientes externos"
+        }
+    },
+    "teste@teste": {
+        "senha_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "senha_original": "123456",
+        "licenca_payload": "...",
+        "expira_em": "2026-08-27 14:51:07",
         "bloqueado": false,
-        "atualizado_em": "26/08/2026 16:18:23"
+        "atualizado_em": "26/08/2026 14:51:07"
     }
 }
