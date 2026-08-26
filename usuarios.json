@@ -5,7 +5,7 @@
             "descricao": "Versao interna do escritorio"
         },
         "comercial": {
-            "exigir_login": false,
+            "exigir_login": true,
             "descricao": "Versao para clientes externos"
         }
     },
