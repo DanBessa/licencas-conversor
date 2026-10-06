@@ -33,13 +33,5 @@
                 "nome": ""
             }
         ]
-    },
-    "teste2": {
-        "senha_hash": "pbkdf2_sha256$600000$Z+Frit/M4hGFCc1l3hsuRA==$zs2z2G1jdQKtUwcN737wk9HvXwWeOtOO+j4qkj9cgSE=",
-        "licenca_payload": "eyJkYWRvcyI6ICJleUpqYkdsbGJuUmxJam9nSW5SbGMzUmxNaUlzSUNKblpYSmhaRzlmWlcwaU9pQWlNakF5TmkweE1DMHdOaUF4TmpvME1Eb3lNaUlzSUNKbGVIQnBjbUZmWlcwaU9pQWlNakF5TmkweE1TMHdOU0F4TmpvME1Eb3lNaUlzSUNKaWJHOXhkV1ZoWkc4aU9pQm1ZV3h6WlN3Z0ltUnBjM0J2YzJsMGFYWnZjMTloZFhSdmNtbDZZV1J2Y3lJNklGdGRmUT09IiwgImFzc2luYXR1cmEiOiAiRjRmaVJwN3UybUZ6NmpsRHRmekU5aHMwYkJUcFdMTDJRdnZZTm9KWUQ2bVJtQWJVT2FIYnJXL3pwd1VtZEtUaE1ac01qUjFuUnJlMVpPdXdhKzNyeWFOWG96bkF5ZS9HS0ZpTjNpejBmOHhDMWZoS29ZdFNYeEtlaVd3OFREd2FNc081eVdFME05cExlUlV3dmx6VGp5U0RkeEFVK1FqR1ExR0djRDJmeDlPNFdIaFoySWlaNGtGbi9hMkcvV3hxc0xjT29rNlBEOUdIdzliVWd0NnlCUW5Vb2x5NW1wUnNHL2ZGQmlhb1FJQ3crWVo5VHVLT1gwK1Z4YjFLNGpCUUdqanV4TnlsYVlYMDVaQmZZTjVVQm9XSThCR0cya1Nucks4bWJiSGlsTnZUNkdRWjZtdEFZNk1WYU9hSlhZOWJwNGJJVFB4Mzd4ZTlQV1pOUENUWVZ3PT0ifQ==",
-        "dispositivos_autorizados": [],
-        "expira_em": "2026-11-05 16:40:22",
-        "bloqueado": false,
-        "atualizado_em": "06/10/2026 16:40:22"
     }
 }
