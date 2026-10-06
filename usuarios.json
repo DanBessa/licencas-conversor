@@ -3,7 +3,8 @@
         "escritorio": {
             "exigir_login": false,
             "descricao": "Versao interna do escritorio",
-            "dispositivos_autorizados": []
+            "dispositivos_autorizados": [],
+            "redes_autorizadas": []
         },
         "comercial": {
             "exigir_login": true,
