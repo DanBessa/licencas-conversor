@@ -11,11 +11,11 @@
         }
     },
     "teste": {
-        "senha_hash": "pbkdf2_sha256$600000$4gYJm9/v72JpwsLAYKBmXA==$kf3hZIIgdbIgD1kPLVZ3PbpFtv/HfSOk4nRs7ojyHNM=",
+        "senha_hash": "pbkdf2_sha256$600000$DKV07Rj9kPU6dKNRruCFIw==$KAt+jJBY0t4i+3qluwTi9EGy+GrxbDnnBehVXJoeZ7Y=",
         "licenca_payload": "eyJkYWRvcyI6ICJleUpqYkdsbGJuUmxJam9nSW5SbGMzUmxJaXdnSW1kbGNtRmtiMTlsYlNJNklDSXlNREkyTFRBNExUSTJJREUyT2pNNU9qQTRJaXdnSW1WNGNHbHlZVjlsYlNJNklDSXlNREkyTFRBNUxUSTFJREUyT2pNNU9qQTRJaXdnSW1Kc2IzRjFaV0ZrYnlJNklHWmhiSE5sZlE9PSIsICJhc3NpbmF0dXJhIjogIlBOUkVSTS9TcUVnRzV3L05PTGUzM09sVHVqMVA0Q0NpZ0wvY3JmMGFtd01weng0bDRVd0ZGUllwdXFDKzhnMzJzeHRnQTVVWHFvc21SSzZ2M3NiQVZRQy82MVhxV1dlWTZ0QnhQMjNkQ0hMVnQ1ZCt4YW5HYklkUHhQTXpFUEhQdnczM0NNZFpYeE4xQmFGVktSZ0lpQWpDMFdqbDlnUGpmdlFIYXBEK25kR0pJRkNQbFhNTU9DYmxtaW5NV1FiempYaHVFVEhzcDdoTVdZUkh5cFYremllbTB2S0xONDdmRTd5d2QwTWpaNGVicVZZTUJrbVB3NGJPRW04Vlg1SHcrL0VJU0VLS3YwTE5kZEtJL2Zwa1VHdURkUlFOR2czci9tTHA2bk5TWnM4Qk02VklMcjMrZzRobzhGQUdnMmVSRTRLYXY2Y2VWQ0Z2VHBQWmVJNnFTUT09In0=",
         "expira_em": "2026-09-25 16:39:08",
         "bloqueado": false,
-        "atualizado_em": "01/09/2026 13:19:59",
+        "atualizado_em": "06/10/2026 15:08:03",
         "dispositivos_autorizados": []
     }
 }
