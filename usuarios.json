@@ -4,7 +4,12 @@
             "exigir_login": false,
             "descricao": "Versao interna do escritorio",
             "dispositivos_autorizados": [],
-            "redes_autorizadas": []
+            "redes_autorizadas": [
+                {
+                    "id": "88F751-F80DD8-88438B-C175E7",
+                    "nome": "Rede via gateway 192.168.15.1"
+                }
+            ]
         },
         "comercial": {
             "exigir_login": true,
