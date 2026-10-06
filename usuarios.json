@@ -20,18 +20,5 @@
             "exigir_login": true,
             "descricao": "Versao para clientes externos"
         }
-    },
-    "teste": {
-        "senha_hash": "pbkdf2_sha256$600000$DKV07Rj9kPU6dKNRruCFIw==$KAt+jJBY0t4i+3qluwTi9EGy+GrxbDnnBehVXJoeZ7Y=",
-        "licenca_payload": "eyJkYWRvcyI6ICJleUpqYkdsbGJuUmxJam9nSW5SbGMzUmxJaXdnSW1kbGNtRmtiMTlsYlNJNklDSXlNREkyTFRFd0xUQTJJREUyT2pNNU9qRXpJaXdnSW1WNGNHbHlZVjlsYlNJNklDSXlNREkyTFRFeExUQTFJREUxT2pBNE9qSXpJaXdnSW1Kc2IzRjFaV0ZrYnlJNklHWmhiSE5sTENBaVpHbHpjRzl6YVhScGRtOXpYMkYxZEc5eWFYcGhaRzl6SWpvZ1d5SkdOME5FTTBZdE9UZzNSalF4TFRBMU4wSTBOeTAwUkRReU56Y2lYWDA9IiwgImFzc2luYXR1cmEiOiAiRXU4L3B2ZW1oT0tweGsrUVZMMWlmUSt0STBGMU5MTDAwNkFzZElYNXdVdGtpQnVOZUNXS0c0QzEvYkpzZEp5ZlIrOEl0QWJ4VjIxL0VtaHVlbTJiVjk5dnJyMDNRTTdZaWVWOHFFRkt6ZTczK3NWelBCSFRtZnUwN3RsNlFEejh4VWF3L1c0Y2g5eFMxTzdsWXFHcEgzK1RtZVdjakhtRCtpN2hkSlN4SHVZck1LdHRxenZkY0F4M1hrYWFqTnJBRjFpdWdnQXlDRGFKdjNFc045OW1Ea0cxRDRHOGtvZTZmeUliSFFYUFhkeGg3eG5tYWR4aEg4ZVRtMFVyTjBGSjZvTmlMY3NnR2FNSFkzTmN1UGZjQjJvTk9DYXRmSDVpNjliVEZ4Sko4ZHgvRytRNVArWXprcVdhV011eUhwUWpFNjBBNkxEOFJZeFRkR3FsUnFkWUdnPT0ifQ==",
-        "expira_em": "2026-11-05 15:08:23",
-        "bloqueado": false,
-        "atualizado_em": "06/10/2026 16:39:13",
-        "dispositivos_autorizados": [
-            {
-                "id": "F7CD3F-987F41-057B47-4D4277",
-                "nome": ""
-            }
-        ]
     }
 }
