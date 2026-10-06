@@ -3,7 +3,12 @@
         "escritorio": {
             "exigir_login": false,
             "descricao": "Versao interna do escritorio",
-            "dispositivos_autorizados": [],
+            "dispositivos_autorizados": [
+                {
+                    "id": "F7CD3F-987F41-057B47-4D4277",
+                    "nome": ""
+                }
+            ],
             "redes_autorizadas": [
                 {
                     "id": "88F751-F80DD8-88438B-C175E7",
