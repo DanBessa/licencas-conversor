@@ -36,15 +36,10 @@
     },
     "testee": {
         "senha_hash": "pbkdf2_sha256$600000$8Zr3fn9GdxVURmvwJ6sASg==$nQbHfHxzPfSMxnML0sVk3xCYJc59nX/TABjgS2GnuwI=",
-        "licenca_payload": "eyJkYWRvcyI6ICJleUpqYkdsbGJuUmxJam9nSW5SbGMzUmxaU0lzSUNKblpYSmhaRzlmWlcwaU9pQWlNakF5TmkweE1DMHdOeUF4TXpvME1qbzFNU0lzSUNKbGVIQnBjbUZmWlcwaU9pQWlNakF5TmkweE1TMHdOaUF3T0RvME1qb3dNQ0lzSUNKaWJHOXhkV1ZoWkc4aU9pQm1ZV3h6WlN3Z0ltUnBjM0J2YzJsMGFYWnZjMTloZFhSdmNtbDZZV1J2Y3lJNklGc2lSamREUkROR0xUazROMFkwTVMwd05UYzRORGN0TkVRME1qYzNJbDE5IiwgImFzc2luYXR1cmEiOiAiVVl4TG1FTUt5N0RQUzljZm56TnNNcWdHM2Q0N0RXSSthNG5EOVdZdTJCbVcyTmFRa1M4NTBvb2xnSXoxQ2RhTFRVRDd4MTFVK2FibHp5dlQwamErNVFOaXl4d1BFTkZRWTQzakhCb21GbnBOWmJrbko4NlZlVmppanp5UE5TVUhJWXN1dzhpQ0FNdGQrSWdnUWk5N3c2UGlkZGp6dnBaY1VqM3FsR2dXZ1FtLzV6emF2Vjc3SWhmODJJbTE4Vi95RjZPQmxNOVAzbUpkNFlJU2h4K0RzcXd6b21mTHhHdiszZ0tmQTNVUzdVU3dmQjFmQTBtYit5b0xsSndha2NtRjBlQ1BTZm1lOWYxZUtHR2xDbldJSEhHdFNEQlZkVjlmdW51RC9wL0FqQ0RRcytvWS9nOVJaUnVXbmhkRkVhaDVkY0l6VDkvdWhWT2pHcnNQMmtGNUNRPT0ifQ==",
-        "dispositivos_autorizados": [
-            {
-                "id": "F7CD3F-987F41-057847-4D4277",
-                "nome": ""
-            }
-        ],
+        "licenca_payload": "eyJkYWRvcyI6ICJleUpqYkdsbGJuUmxJam9nSW5SbGMzUmxaU0lzSUNKblpYSmhaRzlmWlcwaU9pQWlNakF5TmkweE1DMHdOeUF4TkRvd016b3hOeUlzSUNKbGVIQnBjbUZmWlcwaU9pQWlNakF5TmkweE1TMHdOaUF3T0RvME1qb3dNQ0lzSUNKaWJHOXhkV1ZoWkc4aU9pQm1ZV3h6WlN3Z0ltUnBjM0J2YzJsMGFYWnZjMTloZFhSdmNtbDZZV1J2Y3lJNklGdGRmUT09IiwgImFzc2luYXR1cmEiOiAiVnJ6M2s3VFZYUzV4MUZsUEtZSXdrZWFGalVtMWhLVVRiVUh3NWcxL2YySGNJSmlNb3NmZGx0Wnlmam1paWt3OHYyYUZZMkJtNTZxc3pnR2M2RThzN3g2aTNOczd0clQ2UGwvVVFrR1BrcGFHckpPbXFQQVUrUVdPZzJzazVIWEpxdW5BWm5BaitPZmZDUC81dmw5SCs1aXI4eEdUVUw3bVN4eEVscFdHeWN5YU0vRE9PcnhDbzZBREZRTW8rcktCRXg1eEdVTDFnS202dTMwSzVoR2x1akV6Z0c5VEJNUFhRMVNsSUhua3gvRmNjTlVDM2pUTmVLc3FVZVZLeXFOOTgyN1JWQ0xqR1BGQ0ZQYkwwL0JxRm5HU2lpbGRRZHNpVENlMlUvSVhMWW1iZGVVUEcrMVQzZk9HMlNvSTdyT2dEQ1BtRTNnaFNiMnNKcVBVQjhDejlRPT0ifQ==",
+        "dispositivos_autorizados": [],
         "expira_em": "2026-11-06 08:42:00",
         "bloqueado": false,
-        "atualizado_em": "07/10/2026 13:42:51"
+        "atualizado_em": "07/10/2026 14:03:17"
     }
 }
