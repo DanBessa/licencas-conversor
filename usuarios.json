@@ -19,7 +19,9 @@
         "comercial": {
             "exigir_login": true,
             "descricao": "Versao para clientes externos"
-        }
+        },
+        "rsa_public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx8ZaAirtS+7GWpf/+d1U\nK7jpQLieREpDypJhyDuGwS78ioY16X4fnWi1xyIOJrc8kWWxFuq/bcaspNLutsNb\nlOj/SdTNv2NQsQIwkPnjrhse5LaA7UvT6+FvZFR1BLfIdjnpqVe5TP2uU797X8Z0\nYCfGIpLx4jL1m/hOzGcLVb0fKjCgDoejUh53AgWGKOH/ViYiOOoBz8ZqzyPPfxOq\nE/jhWfuEGy+qRMXr79Th5LkuZdCGZOCfTaLt58DIOQEquHD3my5q+K6etwSIScra\nS301pSg0F09ACDrllG0hiND9zn5BJR8Ro3p+zNCofC4nbUT2RK2OIkxG0aO0U5iX\nawIDAQAB\n-----END PUBLIC KEY-----\n",
+        "rsa_key_fingerprint": "7B33458070628B06"
     },
     "teste": {
         "senha_hash": "pbkdf2_sha256$600000$wb1U93e77TD9xHZrVf/+LA==$C+tq9w7//MU0b3VplHFf4BTQQQqWzfwizL+TqfpSeL8=",
