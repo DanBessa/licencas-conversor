@@ -39,20 +39,16 @@
                 {
                     "id": "6D540D-E9CF0C-FD51FB-EBC9A4",
                     "nome": "Vitor"
-                },
-                {
-                    "id": "0E8484-0F6BF0-F5F0EF-BFC136",
-                    "nome": "Notebook Casa"
-                },
+                }
             ],
             "redes_autorizadas": [
                 {
                     "id": "88F751-F80DD8-88438B-C175E7",
                     "nome": "Rede via gateway 192.168.15.1"
                 },
-                 {
-                    "id": "0E8484-0F6BF0-F5F0EF-BFC136",
-                    "nome": "Rede via gateway 192.168.0.1"
+                {
+                    "id": "C763C1-AAE356-427B55-702751",
+                    "nome": "Rede via gateway 192.168.2.1"
                 }
             ]
         },
