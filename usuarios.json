@@ -49,6 +49,10 @@
                 {
                     "id": "88F751-F80DD8-88438B-C175E7",
                     "nome": "Rede via gateway 192.168.15.1"
+                },
+                 {
+                    "id": "0E8484-0F6BF0-F5F0EF-BFC136",
+                    "nome": "Rede via gateway 192.168.0.1"
                 }
             ]
         },
